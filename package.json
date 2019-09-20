@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/jax-n/google-books-search/issues"
   },
-  "homepage": "https://github.com/jax-n/google-books-search#readme"
+  "homepage": "https://github.com/jax-n/google-books-search#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongodb": "^3.3.2",
+    "node": "^12.10.0"
+  }
 }
